@@ -32,6 +32,8 @@ Dataset TSA Claims ini berisi informasi tentang aktivitas klaim yang diajukan ol
 12. Close Amount: Nominal biaya ganti rugi yang dibayarkan oleh TSA kepada pelapor (dalam satuan USD)
 13. Disposition: Status akhir dari laporan klaim (final status)
 
+# **Summary**
+
 Bagaimana performa TSA sebagai penanggung jawab keamanan transportasi dari tahun 2002 sampai 2015? 
 
 TSA sudah berusaha untuk memperbaiki sistem dan proses pengamanan terbukti dari data yang sudah kita bersihkan dan analisis dengan menurunnya klaim tahun ke tahun, perbaikan pelayanan perbaikan pelayanan klaim tetap perlu ditingkatkan guna meningkatkan kepercayaan dari masyarakat
