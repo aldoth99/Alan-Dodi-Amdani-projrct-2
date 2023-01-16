@@ -1,4 +1,4 @@
-# Alan-Dodi-Amdani-project-2
+# Alan-Dodi-Amdani-Capstone project-2
 # **Latar Belakang**
 
 TSA adalah agen federal Amerika Serikat yang bertugas melakukan keamanan di sektor transportasi, terutama di bandara. TSA bertanggung jawab untuk memastikan bahwa penerbangan di Amerika Serikat tetap aman dengan mengadakan pemeriksaan bagasi dan pemeriksaan keamanan yang ketat di bandara. Selain itu, TSA juga bertanggung jawab untuk memastikan bahwa semua regulasi keamanan di sektor transportasi dipatuhi. TSA telah mengembangkan beberapa kebijakan untuk melindungi sistem transportasi Amerika Serikat dan dibentuk setelah peristiwa 9/11 di Amerika Serikat. TSA bertanggung jawab atas pemeriksaan penumpang dan bagasi di semua bandara di Amerika Serikat. TSA mencatat semua klaim yang diajukan oleh pengguna transportasi untuk menyimpan rekam jejak kasus-kasus yang terjadi dan data ini bisa digunakan untuk meningkatkan sistem keamanan dan kinerja TSA sendiri.
